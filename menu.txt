@@ -1,0 +1,7 @@
+pizza 20
+spaghetti 12
+lasagne 16
+pierogi 7
+omlet 10
+kawa 7
+herbata 4

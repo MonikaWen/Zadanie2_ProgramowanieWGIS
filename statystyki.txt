@@ -1,0 +1,3 @@
+Liczba wystapien wyrazu:
+
+{'p\xb3uca': 1, 'Kolor\xf3w': 1, 'wi\xeacej': 1, 'tych': 1, 'wolno\x9cci': 1, 'Tu': 2, 'chc\xea': 2, 'w\xb9tpliwo\x9cci': 1, 'My\x9cli': 1, '\xafycia': 1, 'posplatanych': 1, '\xbfe': 1, 'pe\xb3ne': 1, 'my\x9cl\xb9': 1, 'mur': 1, 'r\xeakach': 1, 'sercach': 1, 'Mi\xb3o\x9cci': 1, 'aby': 1, 'm\xf3c': 1, 'oczach': 1, 'teraz': 2, 'd\xb3oni': 1, 'jest': 1, 'rozwia\xe6': 1, 'naszych': 4, 'ka\xbfdy': 1, 'Powietrza': 1, 'piach': 1, 'by': 1, 'i': 2, 'g\xb3owach': 1, 'bez': 1, 'w': 5, 'obr\xf3ci\xe6': 1, 'szcz\xea\x9ccie': 1, 'kt\xf3rzy': 1, 'jeszcze': 1}
